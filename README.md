@@ -1,16 +1,22 @@
-# newsapp
+# News App 📢
 
-A new Flutter project.
+Welcome to **News App**, a Flutter application that aggregates and displays news from multiple sources.
 
-## Getting Started
+## 📱 Screens
 
-This project is a starting point for a Flutter application.
+ <img src="https://github.com/user-attachments/assets/844082d0-9891-4711-8dd1-f3b0b634345d" width="200"/>
+ <img src="https://github.com/user-attachments/assets/2eea85a6-ebc6-442c-a02c-b5a4cf393557" width="200"/>
+ <img src="https://github.com/user-attachments/assets/ec16d5a9-983b-4cdb-bc57-e82fae860233" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📰 Aggregates news articles from reliable sources.
+- 🌐 Implemented RESTful API for data fetching.
+- 📱 User-friendly interface for seamless navigation.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ayaaslama/NewsApp.git
